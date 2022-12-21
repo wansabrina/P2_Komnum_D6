@@ -1,9 +1,9 @@
 /*
 Kelompok 6
 Anggota Kelompok:
-    Najma Ulya Agustina	    5025211239
+    Najma Ulya Agustina	        5025211239
     Syarifah Thalita Erfany	5025211175
-    Wan Sabrina Mayzura	    5025211023
+    Wan Sabrina Mayzura	        5025211023
 */
 
 #include <iostream>
