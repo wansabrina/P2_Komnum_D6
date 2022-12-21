@@ -4,11 +4,6 @@ Anggota Kelompok:
     Najma Ulya Agustina	    5025211239
     Syarifah Thalita Erfany	5025211175
     Wan Sabrina Mayzura	    5025211023
-
-Soal:
-Salah satu kelemahan dari metode Trapezoidal adalah kita harus menggunakan jumlah interval yang besar 
-untuk memperoleh akurasi yang diharapkan. Buatlah sebuah program komputer untuk menjelaskan bagaimana 
-metode Integrasi Romberg dapat mengatasi kelemahan tersebut.
 */
 
 #include <iostream>
@@ -80,12 +75,3 @@ int main()
 
     return 0;
 }
-
-/*
-Kesimpulan:
-Untuk mengatasi kelemahan dari metode trapezoidal, pada metode romberg tetap digunakan implementasi 
-metode trapezoidal, namun juga digunakan teknik interpolasi Richardson untuk menambah akurasi dari 
-integralnya. Sehingga hasil akurasi metode romberg dapat dibuktikan dengan melihat tingkat errornya 
-yang lebih kecil daripada metode trapezoidal, jika dibandingkan dengan hasil integrasi dengan menggunakan 
-perhitungan integral secara analitik.
-*/
